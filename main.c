@@ -7,6 +7,7 @@ int main() {
     if(x<9){
         x++;
     }
+    x=1;
     kiir(x);
     return 0;
 }

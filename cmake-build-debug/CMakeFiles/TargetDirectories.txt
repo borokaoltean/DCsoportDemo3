@@ -1,0 +1,3 @@
+C:/CLion/DCsoportDemo/cmake-build-debug/CMakeFiles/DCsoportDemo.dir
+C:/CLion/DCsoportDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLion/DCsoportDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
